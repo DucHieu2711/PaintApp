@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.Contaner{
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(163, 211, 220);
+    margin-bottom: 15px;
+}
+.Contaner > *{
+    margin: 10px 30px;
+    border: none;
+    background-color: rgb(163, 211, 220);
+}
+#myCanvas{
+    margin-left: 28px; 
+}
+
